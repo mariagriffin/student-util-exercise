@@ -1,25 +1,14 @@
-# student-utils-assignment (Java 11)
+# student-utils-assignment
 
-A beginner-friendly **Secure Programming** unit testing mini-assignment using **Java 11**, **Maven**, and **JUnit 5**.
+**Secure Programming** unit testing exercise using **JUnit 5**.
 
-You are given a small utility class with simple validation logic (grades and ages).
+You have been given a small utility class with simple validation logic (grades and ages).
 The code contains **intentional bugs**. Your job is to:
 
 1. Write unit tests (including **boundary tests**) for each method.
 2. Run the tests and identify failures.
 3. Fix the bugs in `StudentUtils`.
 4. Ensure **all tests pass**.
-
-## Quick start
-
-### Requirements
-- Java **11**
-- Maven **3.6+**
-
-### Run tests
-```bash
-mvn test
-```
 
 ## Methods to test
 
