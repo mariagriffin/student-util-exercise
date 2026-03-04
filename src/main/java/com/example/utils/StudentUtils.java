@@ -21,7 +21,7 @@ public final class StudentUtils {
 
     // Adult = 18+
     public static boolean isAdult(int age) {
-        return age >= 18;
+        return age > 18;
     }
 
     // Teenager = 13–17
