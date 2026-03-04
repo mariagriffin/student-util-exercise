@@ -31,6 +31,6 @@ public final class StudentUtils {
 
     // Child = 0–12
     public static boolean isChild(int age) {
-        return age <= 12;
+        return age < 12;
     }
 }
